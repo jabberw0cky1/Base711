@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/home/jabberw0cky1/devel/VSCode_Base711_cpp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}

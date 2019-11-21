@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+        {
+            "name": "Run for debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/runMeForDebug",
+            "cwd": "${workspaceFolder}/build"
+        }
+    ]  
+}
